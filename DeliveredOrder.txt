@@ -1,0 +1,39 @@
+0123456789
+Giada's Chicken Saltimbocca
+1
+38.9
+38.9
+10/12/2020
+10 : 2 PM
+10.0
+118.8
+12, Jalan Hourse, 21A
+11200
+Balik Pulau
+DEO5724
+0123456789
+Nancy's Bacon & Olive Pasta
+1
+45.2
+45.2
+10/12/2020
+10 : 2 PM
+10.0
+118.8
+12, Jalan Hourse, 21A
+11200
+Balik Pulau
+DEO5724
+0198765432
+Spaghetti Carbonara
+2
+44.9
+89.8
+07/07/2022
+2 : 59 PM
+10.0
+99.8
+1A, Burma Road, 21A
+11600
+Balik Pulau
+DEO4596
